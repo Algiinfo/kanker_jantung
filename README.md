@@ -15,8 +15,8 @@ Fitur utama dalam dataset mencakup:
 - **Jumlah sampel pasien**
 
 Target klasifikasi:  
-- **0** = Tidak terkena kanker jantung  
-- **1** = Terkena kanker jantung  
+- **0** = Tidak terkena kanker Payudara 
+- **1** = Terkena kanker Payudara  
 
 ---
 
